@@ -1,9 +1,9 @@
 ### 1. Code resources for core concepts
   - [ ] Metaprograming (PH)
   - [ ] Command design pattern
-  - [ ] Adapter design pattern (JS)
+  - [x] Adapter design pattern (JS)
   - [ ] Testing pyramid
-  - [ ] Universal readme for gems (JS)
+  - [x] Universal readme for gems (JS)
 
 #### Each Module
 ##### Have a section for each step of learning
@@ -17,7 +17,7 @@
 
 ### 2. Update lesson plan
   - [ ] Ensure lesson plan highlights use of new resources
-  - [ ] Highlight when to do student lead code review/presentation (JS)
+  - [ ] Highlight when to do student lead code review/presentation 
 
 ### 3. Marketing copy / resources for distribution
   - [x] talk about main points of small course size, useful gem at the end (https://github.com/jks8787/fullstack-ory-website )
@@ -28,4 +28,4 @@
   - [ ] trustpilot 
   
  ### 5.housekeeping 
- - [ ] migrate codebases to github organization (JS/PH)
+ - [x] migrate codebases to github organization (JS/PH)
